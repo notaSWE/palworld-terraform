@@ -8,6 +8,7 @@
 
 ### Deployment
 
+0. Enable GCP Compute Engine API in the GCP Console
 1. Clone this repo
 2. cd to repo
 3. Create/modify `terraform_boilerplate.tfvars` to reflect your `project_id`, `region`, and `zone` and rename to `terraform.tfvars`
