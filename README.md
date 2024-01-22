@@ -36,3 +36,8 @@
 #### To re-run server after modification of PalWorldSettings.ini:
 
 `screen -dmS palworld-running ./PalServer.sh -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS`
+
+### Resources
+
+- https://github.com/A1RM4X/HowTo-Palworld
+- ChatGPT
