@@ -26,6 +26,7 @@
 #### To shutdown server:
 
 1. `screen -ls`
+2. Note the output and `screen -r <output from above>`
 2. `CTRL+C`
 
 #### To modify server settings:
