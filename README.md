@@ -1,6 +1,3 @@
-# palworld-terraform
-Deploy a PalWorld server with ease
-
 ### Prerequisites
 
 - A Google Cloud Platform account, preferably with free credits ($300 for new users)
@@ -13,6 +10,7 @@ Deploy a PalWorld server with ease
 
 1. Clone this repo
 2. cd to repo
+3. Create/modify `terraform.tfvars` to reflect your `project_id`, `region`, and `zone`
 3. terraform init
 4. terraform plan
 5. terraform apply
