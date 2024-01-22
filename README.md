@@ -10,7 +10,7 @@
 
 1. Clone this repo
 2. cd to repo
-3. Create/modify `terraform.tfvars` to reflect your `project_id`, `region`, and `zone`
+3. Create/modify `terraform_boilerplate.tfvars` to reflect your `project_id`, `region`, and `zone` and rename to `terraform.tfvars`
 3. terraform init
 4. terraform plan
 5. terraform apply
