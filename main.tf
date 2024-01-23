@@ -18,7 +18,7 @@ resource "google_compute_firewall" "palworld_udp" {
 
 resource "google_compute_instance" "default" {
   name         = "palworld-tf-vm"
-  machine_type = "e2-custom-4-8192"
+  machine_type = "e2-standard-4" # 4x vCPU and 16GB RAM
 
   network_interface {
     network = "default"

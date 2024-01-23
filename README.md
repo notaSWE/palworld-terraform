@@ -1,7 +1,7 @@
 ### Prerequisites
 
 - A Google Cloud Platform account, preferably with free credits ($300 for new users)
-- A terminal of kind (I used Windows Subsystem for Linux)
+- A terminal of some kind (I used Windows Subsystem for Linux)
 - Terraform installed in said terminal
 - google-cloud-cli installed and authenticated in said terminal
 - **Awareness that this will cost you around $100/month as configured**
